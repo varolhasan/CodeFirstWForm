@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstWForm", "CodeFirstWForm\CodeFirstWForm.csproj", "{2AC158BB-B426-4854-8FE8-0B13D07B15AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC158BB-B426-4854-8FE8-0B13D07B15AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC158BB-B426-4854-8FE8-0B13D07B15AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC158BB-B426-4854-8FE8-0B13D07B15AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC158BB-B426-4854-8FE8-0B13D07B15AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0A825D8-B6E0-4124-8595-C4CDE8DCDD73}
+	EndGlobalSection
+EndGlobal
